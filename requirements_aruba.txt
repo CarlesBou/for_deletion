@@ -1,0 +1,2 @@
+# Aruba SD-WAN Orchestrator API Requirements
+pyedgeconnect>=11.0.0
